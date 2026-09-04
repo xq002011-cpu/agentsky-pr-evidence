@@ -1,0 +1,24 @@
+{
+ "open": [
+  {
+   "t": "Update(/data/workspace/seo/02-keyword-map.md)",
+   "renderer": "edit"
+  },
+  {
+   "t": "Update(/data/workspace/seo/03-competitors.md)",
+   "renderer": "edit"
+  },
+  {
+   "t": "Update Todos",
+   "renderer": "todo"
+  }
+ ],
+ "thinking": {
+  "text": "✻",
+  "font": "\"JetBrains Mono\", \"JetBrains Mono Fallback\", ui-monospace, \""
+ },
+ "result": {
+  "text": "⎿",
+  "font": "\"JetBrains Mono\", \"JetBrains Mono Fallback\", ui-monospace, \""
+ }
+}

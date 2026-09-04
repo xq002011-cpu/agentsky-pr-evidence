@@ -1,0 +1,562 @@
+[
+ {
+  "tag": "779-share-light-1440",
+  "errors": 0,
+  "rows": 26,
+  "glyphs": {
+   "spine": 29,
+   "result": 29,
+   "human": 0
+  },
+  "price": 0,
+  "composerBottom": 884,
+  "vh": 900,
+  "dock": [],
+  "leaked": 0,
+  "expanded": 28,
+  "first": "›",
+  "sample": [
+   {
+    "title": "Bash(npm test -- --run)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Bash(npm run dev -- --port 3000)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "BashOutput(bash_7)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": false
+   }
+  ]
+ },
+ {
+  "tag": "779-sessions-light-1440",
+  "errors": 0,
+  "rows": 27,
+  "glyphs": {
+   "spine": 29,
+   "result": 29,
+   "human": 0
+  },
+  "price": 0,
+  "composerBottom": 884,
+  "vh": 900,
+  "dock": [
+   200
+  ],
+  "leaked": 0,
+  "expanded": 28,
+  "first": "›",
+  "sample": [
+   {
+    "title": "XXiaoyin Qu",
+    "summary": "",
+    "boxH": 53,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "Bash(npm test -- --run)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Bash(npm run dev -- --port 3000)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   }
+  ]
+ },
+ {
+  "tag": "779-playground-light-1440",
+  "errors": 0,
+  "rows": 15,
+  "glyphs": {
+   "spine": 15,
+   "result": 10,
+   "human": 0
+  },
+  "price": 0,
+  "composerBottom": 884,
+  "vh": 900,
+  "dock": [
+   459
+  ],
+  "leaked": 0,
+  "expanded": 15,
+  "first": "Claude Code",
+  "sample": [
+   {
+    "title": "",
+    "summary": "AgentSky SEO strategy2",
+    "boxH": 32,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "XXiaoyin Qu",
+    "summary": "",
+    "boxH": 53,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "",
+    "summary": "Claude Code · Claude Fable 5",
+    "boxH": 32,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   }
+  ]
+ },
+ {
+  "tag": "779-share-light-390",
+  "errors": 0,
+  "rows": 26,
+  "glyphs": {
+   "spine": 29,
+   "result": 29,
+   "human": 0
+  },
+  "price": 0,
+  "composerBottom": 828,
+  "vh": 844,
+  "dock": [],
+  "leaked": 0,
+  "expanded": 28,
+  "first": "›",
+  "sample": [
+   {
+    "title": "Bash(npm test -- --run)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Bash(npm run dev -- --port 3000)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "BashOutput(bash_7)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": false
+   }
+  ]
+ },
+ {
+  "tag": "779-sessions-light-390",
+  "errors": 0,
+  "rows": 27,
+  "glyphs": {
+   "spine": 29,
+   "result": 29,
+   "human": 0
+  },
+  "price": 0,
+  "composerBottom": 828,
+  "vh": 844,
+  "dock": [],
+  "leaked": 0,
+  "expanded": 28,
+  "first": "›",
+  "sample": [
+   {
+    "title": "",
+    "summary": "AgentSkyNew",
+    "boxH": 56,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "Bash(npm test -- --run)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Bash(npm run dev -- --port 3000)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   }
+  ]
+ },
+ {
+  "tag": "779-playground-light-390",
+  "errors": 0,
+  "rows": 11,
+  "glyphs": {
+   "spine": 15,
+   "result": 10,
+   "human": 0
+  },
+  "price": 0,
+  "composerBottom": 828,
+  "vh": 844,
+  "dock": [],
+  "leaked": 0,
+  "expanded": 15,
+  "first": "Claude Code",
+  "sample": [
+   {
+    "title": "",
+    "summary": "AgentSkyNew",
+    "boxH": 56,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "",
+    "summary": "Ready",
+    "boxH": 28,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "Bash(curl -s https://agentsky.dev/sitemap.xml | head -50)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   }
+  ]
+ },
+ {
+  "tag": "779-share-dark-1440",
+  "errors": 0,
+  "rows": 26,
+  "glyphs": {
+   "spine": 29,
+   "result": 29,
+   "human": 0
+  },
+  "price": 0,
+  "composerBottom": 884,
+  "vh": 900,
+  "dock": [],
+  "leaked": 0,
+  "expanded": 28,
+  "first": "›",
+  "sample": [
+   {
+    "title": "Bash(npm test -- --run)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Bash(npm run dev -- --port 3000)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "BashOutput(bash_7)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": false
+   }
+  ]
+ },
+ {
+  "tag": "779-sessions-dark-1440",
+  "errors": 0,
+  "rows": 27,
+  "glyphs": {
+   "spine": 29,
+   "result": 29,
+   "human": 0
+  },
+  "price": 0,
+  "composerBottom": 884,
+  "vh": 900,
+  "dock": [
+   200
+  ],
+  "leaked": 0,
+  "expanded": 28,
+  "first": "›",
+  "sample": [
+   {
+    "title": "XXiaoyin Qu",
+    "summary": "",
+    "boxH": 53,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "Bash(npm test -- --run)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Bash(npm run dev -- --port 3000)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   }
+  ]
+ },
+ {
+  "tag": "779-playground-dark-1440",
+  "errors": 0,
+  "rows": 17,
+  "glyphs": {
+   "spine": 15,
+   "result": 10,
+   "human": 0
+  },
+  "price": 0,
+  "composerBottom": 884,
+  "vh": 900,
+  "dock": [
+   459
+  ],
+  "leaked": 0,
+  "expanded": 15,
+  "first": "Claude Code",
+  "sample": [
+   {
+    "title": "",
+    "summary": "AgentSky SEO strategy2",
+    "boxH": 32,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "XXiaoyin Qu",
+    "summary": "",
+    "boxH": 53,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "",
+    "summary": "Claude Code · Claude Fable 5",
+    "boxH": 32,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   }
+  ]
+ },
+ {
+  "tag": "779-share-dark-390",
+  "errors": 0,
+  "rows": 26,
+  "glyphs": {
+   "spine": 29,
+   "result": 29,
+   "human": 0
+  },
+  "price": 0,
+  "composerBottom": 828,
+  "vh": 844,
+  "dock": [],
+  "leaked": 0,
+  "expanded": 28,
+  "first": "›",
+  "sample": [
+   {
+    "title": "Bash(npm test -- --run)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Bash(npm run dev -- --port 3000)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "BashOutput(bash_7)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": false
+   }
+  ]
+ },
+ {
+  "tag": "779-sessions-dark-390",
+  "errors": 0,
+  "rows": 27,
+  "glyphs": {
+   "spine": 29,
+   "result": 29,
+   "human": 0
+  },
+  "price": 0,
+  "composerBottom": 828,
+  "vh": 844,
+  "dock": [],
+  "leaked": 0,
+  "expanded": 28,
+  "first": "›",
+  "sample": [
+   {
+    "title": "",
+    "summary": "AgentSkyNew",
+    "boxH": 56,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "Bash(npm test -- --run)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Bash(npm run dev -- --port 3000)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   }
+  ]
+ },
+ {
+  "tag": "779-playground-dark-390",
+  "errors": 0,
+  "rows": 12,
+  "glyphs": {
+   "spine": 15,
+   "result": 10,
+   "human": 0
+  },
+  "price": 0,
+  "composerBottom": 828,
+  "vh": 844,
+  "dock": [],
+  "leaked": 0,
+  "expanded": 15,
+  "first": "Claude Code",
+  "sample": [
+   {
+    "title": "",
+    "summary": "AgentSkyNew",
+    "boxH": 56,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "",
+    "summary": "Ready",
+    "boxH": 28,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "Bash(curl -s https://agentsky.dev/sitemap.xml | head -50)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   }
+  ]
+ }
+]

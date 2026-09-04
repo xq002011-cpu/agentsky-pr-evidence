@@ -1,0 +1,1621 @@
+[
+ {
+  "tag": "779-share-light-1440",
+  "errors": 0,
+  "scrollerW": 1440,
+  "scrollerH": 788,
+  "rows": 26,
+  "rowInfo": [
+   {
+    "title": "Bash(npm test -- --run)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Bash(npm run dev -- --port 3000)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "BashOutput(bash_7)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": false
+   },
+   {
+    "title": "KillShell(bash_7)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": false
+   },
+   {
+    "title": "Read(/data/workspace/seo/notes.md)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Read(/data/workspace/shots/home.png)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Write(/data/workspace/seo/00-executive-summary.md)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Search(src/**/*.test.ts)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Search(persistInbound)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Fetch(https://agentsky.dev/robots.txt)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "WebSearch(run claude code in the cloud)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": false
+   },
+   {
+    "title": "Task(…)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   }
+  ],
+  "glyphs": {
+   "spine": 29,
+   "result": 29,
+   "human": 0
+  },
+  "firstText": [
+   "›",
+   "Run the full SEO audit and show me every kind of tool call.",
+   "⏺"
+  ],
+  "priceMentions": 0,
+  "composerBottom": 884,
+  "composerH": 92,
+  "viewportH": 900,
+  "dockOpenWidths": [],
+  "redacted": 0,
+  "leaked": 0,
+  "expandedAfterCtrlO": 28
+ },
+ {
+  "tag": "779-sessions-light-1440",
+  "errors": 0,
+  "scrollerW": 1240,
+  "scrollerH": 900,
+  "rows": 27,
+  "rowInfo": [
+   {
+    "title": "XXiaoyin Qu",
+    "summary": "",
+    "boxH": 53,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "Bash(npm test -- --run)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Bash(npm run dev -- --port 3000)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "BashOutput(bash_7)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": false
+   },
+   {
+    "title": "KillShell(bash_7)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": false
+   },
+   {
+    "title": "Read(/data/workspace/seo/notes.md)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Read(/data/workspace/shots/home.png)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Write(/data/workspace/seo/00-executive-summary.md)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Search(src/**/*.test.ts)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Search(persistInbound)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Fetch(https://agentsky.dev/robots.txt)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "WebSearch(run claude code in the cloud)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": false
+   }
+  ],
+  "glyphs": {
+   "spine": 29,
+   "result": 29,
+   "human": 0
+  },
+  "firstText": [
+   "›",
+   "Run the full SEO audit and show me every kind of tool call.",
+   "⏺"
+  ],
+  "priceMentions": 0,
+  "composerBottom": 884,
+  "composerH": 92,
+  "viewportH": 900,
+  "dockOpenWidths": [
+   200
+  ],
+  "redacted": 0,
+  "leaked": 0,
+  "expandedAfterCtrlO": 28
+ },
+ {
+  "tag": "779-playground-light-1440",
+  "errors": 0,
+  "scrollerW": 980,
+  "scrollerH": 900,
+  "rows": 15,
+  "rowInfo": [
+   {
+    "title": "",
+    "summary": "AgentSky SEO strategy2",
+    "boxH": 32,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "XXiaoyin Qu",
+    "summary": "",
+    "boxH": 53,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "",
+    "summary": "Claude Code · Claude Fable 5",
+    "boxH": 32,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "",
+    "summary": "Codex · GPT-5.6 Sol",
+    "boxH": 32,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "Default",
+    "summary": "Code·Claude Fable 5DefaultReady",
+    "boxH": 52,
+    "lineH": 16,
+    "font": "\"Instrument Sans\"",
+    "size": "12px",
+    "verbObject": false
+   },
+   {
+    "title": "",
+    "summary": "Ready",
+    "boxH": 28,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "",
+    "summary": "Ready",
+    "boxH": 28,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "Bash(curl -s https://agentsky.dev/sitemap.xml | head -50)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Fetch(https://agentsky.dev/robots.txt)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Read(/data/workspace/seo/notes.md)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Task(Audit competitor SERP coverage)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Write(/data/workspace/seo/00-executive-summary.md)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   }
+  ],
+  "glyphs": {
+   "spine": 15,
+   "result": 10,
+   "human": 0
+  },
+  "firstText": [
+   "Claude Code",
+   "·",
+   "Claude Fable 5"
+  ],
+  "priceMentions": 0,
+  "composerBottom": 884,
+  "composerH": 92,
+  "viewportH": 900,
+  "dockOpenWidths": [
+   459
+  ],
+  "redacted": 0,
+  "leaked": 0,
+  "expandedAfterCtrlO": 15
+ },
+ {
+  "tag": "779-share-light-390",
+  "errors": 0,
+  "scrollerW": 729,
+  "scrollerH": 716,
+  "rows": 26,
+  "rowInfo": [
+   {
+    "title": "Bash(npm test -- --run)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Bash(npm run dev -- --port 3000)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "BashOutput(bash_7)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": false
+   },
+   {
+    "title": "KillShell(bash_7)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": false
+   },
+   {
+    "title": "Read(/data/workspace/seo/notes.md)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Read(/data/workspace/shots/home.png)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Write(/data/workspace/seo/00-executive-summary.md)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Search(src/**/*.test.ts)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Search(persistInbound)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Fetch(https://agentsky.dev/robots.txt)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "WebSearch(run claude code in the cloud)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": false
+   },
+   {
+    "title": "Task(…)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   }
+  ],
+  "glyphs": {
+   "spine": 29,
+   "result": 29,
+   "human": 0
+  },
+  "firstText": [
+   "›",
+   "Run the full SEO audit and show me every kind of tool call.",
+   "⏺"
+  ],
+  "priceMentions": 0,
+  "composerBottom": 828,
+  "composerH": 108,
+  "viewportH": 844,
+  "dockOpenWidths": [],
+  "redacted": 0,
+  "leaked": 0,
+  "expandedAfterCtrlO": 28
+ },
+ {
+  "tag": "779-sessions-light-390",
+  "errors": 0,
+  "scrollerW": 729,
+  "scrollerH": 659,
+  "rows": 27,
+  "rowInfo": [
+   {
+    "title": "",
+    "summary": "AgentSkyNew",
+    "boxH": 56,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "Bash(npm test -- --run)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Bash(npm run dev -- --port 3000)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "BashOutput(bash_7)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": false
+   },
+   {
+    "title": "KillShell(bash_7)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": false
+   },
+   {
+    "title": "Read(/data/workspace/seo/notes.md)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Read(/data/workspace/shots/home.png)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Write(/data/workspace/seo/00-executive-summary.md)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Search(src/**/*.test.ts)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Search(persistInbound)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Fetch(https://agentsky.dev/robots.txt)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "WebSearch(run claude code in the cloud)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": false
+   }
+  ],
+  "glyphs": {
+   "spine": 29,
+   "result": 29,
+   "human": 0
+  },
+  "firstText": [
+   "›",
+   "Run the full SEO audit and show me every kind of tool call.",
+   "⏺"
+  ],
+  "priceMentions": 0,
+  "composerBottom": 828,
+  "composerH": 108,
+  "viewportH": 844,
+  "dockOpenWidths": [],
+  "redacted": 0,
+  "leaked": 0,
+  "expandedAfterCtrlO": 28
+ },
+ {
+  "tag": "779-playground-light-390",
+  "errors": 0,
+  "scrollerW": 390,
+  "scrollerH": 738,
+  "rows": 11,
+  "rowInfo": [
+   {
+    "title": "",
+    "summary": "AgentSkyNew",
+    "boxH": 56,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "",
+    "summary": "Ready",
+    "boxH": 28,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "Bash(curl -s https://agentsky.dev/sitemap.xml | head -50)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Fetch(https://agentsky.dev/robots.txt)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Read(/data/workspace/seo/notes.md)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Task(Audit competitor SERP coverage)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Write(/data/workspace/seo/00-executive-summary.md)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Bash(curl -s -H \"Authorization: Bearer ●●●\" https://api.example.com/v1",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Fetch(https://api.example.com/v1/report?token=●●●&range=30d)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Fetch(https://agentsky.dev/compare)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Connectors",
+    "summary": "ctors",
+    "boxH": 28,
+    "lineH": 20,
+    "font": "\"Instrument Sans\"",
+    "size": "13px",
+    "verbObject": false
+   }
+  ],
+  "glyphs": {
+   "spine": 15,
+   "result": 10,
+   "human": 0
+  },
+  "firstText": [
+   "Claude Code",
+   "Ready",
+   "›"
+  ],
+  "priceMentions": 0,
+  "composerBottom": 828,
+  "composerH": 108,
+  "viewportH": 844,
+  "dockOpenWidths": [],
+  "redacted": 0,
+  "leaked": 0,
+  "expandedAfterCtrlO": 15
+ },
+ {
+  "tag": "779-share-dark-1440",
+  "errors": 0,
+  "scrollerW": 1440,
+  "scrollerH": 788,
+  "rows": 26,
+  "rowInfo": [
+   {
+    "title": "Bash(npm test -- --run)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Bash(npm run dev -- --port 3000)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "BashOutput(bash_7)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": false
+   },
+   {
+    "title": "KillShell(bash_7)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": false
+   },
+   {
+    "title": "Read(/data/workspace/seo/notes.md)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Read(/data/workspace/shots/home.png)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Write(/data/workspace/seo/00-executive-summary.md)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Search(src/**/*.test.ts)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Search(persistInbound)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Fetch(https://agentsky.dev/robots.txt)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "WebSearch(run claude code in the cloud)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": false
+   },
+   {
+    "title": "Task(…)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   }
+  ],
+  "glyphs": {
+   "spine": 29,
+   "result": 29,
+   "human": 0
+  },
+  "firstText": [
+   "›",
+   "Run the full SEO audit and show me every kind of tool call.",
+   "⏺"
+  ],
+  "priceMentions": 0,
+  "composerBottom": 884,
+  "composerH": 92,
+  "viewportH": 900,
+  "dockOpenWidths": [],
+  "redacted": 0,
+  "leaked": 0,
+  "expandedAfterCtrlO": 28
+ },
+ {
+  "tag": "779-sessions-dark-1440",
+  "errors": 0,
+  "scrollerW": 1240,
+  "scrollerH": 900,
+  "rows": 27,
+  "rowInfo": [
+   {
+    "title": "XXiaoyin Qu",
+    "summary": "",
+    "boxH": 53,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "Bash(npm test -- --run)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Bash(npm run dev -- --port 3000)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "BashOutput(bash_7)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": false
+   },
+   {
+    "title": "KillShell(bash_7)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": false
+   },
+   {
+    "title": "Read(/data/workspace/seo/notes.md)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Read(/data/workspace/shots/home.png)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Write(/data/workspace/seo/00-executive-summary.md)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Search(src/**/*.test.ts)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Search(persistInbound)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Fetch(https://agentsky.dev/robots.txt)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "WebSearch(run claude code in the cloud)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": false
+   }
+  ],
+  "glyphs": {
+   "spine": 29,
+   "result": 29,
+   "human": 0
+  },
+  "firstText": [
+   "›",
+   "Run the full SEO audit and show me every kind of tool call.",
+   "⏺"
+  ],
+  "priceMentions": 0,
+  "composerBottom": 884,
+  "composerH": 92,
+  "viewportH": 900,
+  "dockOpenWidths": [
+   200
+  ],
+  "redacted": 0,
+  "leaked": 0,
+  "expandedAfterCtrlO": 28
+ },
+ {
+  "tag": "779-playground-dark-1440",
+  "errors": 0,
+  "scrollerW": 980,
+  "scrollerH": 900,
+  "rows": 17,
+  "rowInfo": [
+   {
+    "title": "",
+    "summary": "AgentSky SEO strategy2",
+    "boxH": 32,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "XXiaoyin Qu",
+    "summary": "",
+    "boxH": 53,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "",
+    "summary": "Claude Code · Claude Fable 5",
+    "boxH": 32,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "",
+    "summary": "Codex · GPT-5.6 Sol",
+    "boxH": 32,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "Default",
+    "summary": "Code·Claude Fable 5DefaultReady",
+    "boxH": 52,
+    "lineH": 16,
+    "font": "\"Instrument Sans\"",
+    "size": "12px",
+    "verbObject": false
+   },
+   {
+    "title": "",
+    "summary": "Ready",
+    "boxH": 28,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "",
+    "summary": "Ready",
+    "boxH": 28,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "Bash(curl -s https://agentsky.dev/sitemap.xml | head -50)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Fetch(https://agentsky.dev/robots.txt)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Read(/data/workspace/seo/notes.md)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Task(Audit competitor SERP coverage)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Write(/data/workspace/seo/00-executive-summary.md)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   }
+  ],
+  "glyphs": {
+   "spine": 15,
+   "result": 10,
+   "human": 0
+  },
+  "firstText": [
+   "Claude Code",
+   "·",
+   "Claude Fable 5"
+  ],
+  "priceMentions": 0,
+  "composerBottom": 884,
+  "composerH": 92,
+  "viewportH": 900,
+  "dockOpenWidths": [
+   459
+  ],
+  "redacted": 0,
+  "leaked": 0,
+  "expandedAfterCtrlO": 15
+ },
+ {
+  "tag": "779-share-dark-390",
+  "errors": 0,
+  "scrollerW": 729,
+  "scrollerH": 716,
+  "rows": 26,
+  "rowInfo": [
+   {
+    "title": "Bash(npm test -- --run)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Bash(npm run dev -- --port 3000)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "BashOutput(bash_7)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": false
+   },
+   {
+    "title": "KillShell(bash_7)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": false
+   },
+   {
+    "title": "Read(/data/workspace/seo/notes.md)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Read(/data/workspace/shots/home.png)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Write(/data/workspace/seo/00-executive-summary.md)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Search(src/**/*.test.ts)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Search(persistInbound)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Fetch(https://agentsky.dev/robots.txt)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "WebSearch(run claude code in the cloud)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": false
+   },
+   {
+    "title": "Task(…)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   }
+  ],
+  "glyphs": {
+   "spine": 29,
+   "result": 29,
+   "human": 0
+  },
+  "firstText": [
+   "›",
+   "Run the full SEO audit and show me every kind of tool call.",
+   "⏺"
+  ],
+  "priceMentions": 0,
+  "composerBottom": 828,
+  "composerH": 108,
+  "viewportH": 844,
+  "dockOpenWidths": [],
+  "redacted": 0,
+  "leaked": 0,
+  "expandedAfterCtrlO": 28
+ },
+ {
+  "tag": "779-sessions-dark-390",
+  "errors": 0,
+  "scrollerW": 729,
+  "scrollerH": 659,
+  "rows": 27,
+  "rowInfo": [
+   {
+    "title": "",
+    "summary": "AgentSkyNew",
+    "boxH": 56,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "Bash(npm test -- --run)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Bash(npm run dev -- --port 3000)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "BashOutput(bash_7)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": false
+   },
+   {
+    "title": "KillShell(bash_7)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": false
+   },
+   {
+    "title": "Read(/data/workspace/seo/notes.md)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Read(/data/workspace/shots/home.png)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Write(/data/workspace/seo/00-executive-summary.md)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Search(src/**/*.test.ts)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Search(persistInbound)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Fetch(https://agentsky.dev/robots.txt)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "WebSearch(run claude code in the cloud)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": false
+   }
+  ],
+  "glyphs": {
+   "spine": 29,
+   "result": 29,
+   "human": 0
+  },
+  "firstText": [
+   "›",
+   "Run the full SEO audit and show me every kind of tool call.",
+   "⏺"
+  ],
+  "priceMentions": 0,
+  "composerBottom": 828,
+  "composerH": 108,
+  "viewportH": 844,
+  "dockOpenWidths": [],
+  "redacted": 0,
+  "leaked": 0,
+  "expandedAfterCtrlO": 28
+ },
+ {
+  "tag": "779-playground-dark-390",
+  "errors": 0,
+  "scrollerW": 390,
+  "scrollerH": 738,
+  "rows": 12,
+  "rowInfo": [
+   {
+    "title": "",
+    "summary": "AgentSkyNew",
+    "boxH": 56,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "",
+    "summary": "Ready",
+    "boxH": 28,
+    "lineH": 24,
+    "font": "\"Instrument Sans\"",
+    "size": "16px",
+    "verbObject": false
+   },
+   {
+    "title": "Bash(curl -s https://agentsky.dev/sitemap.xml | head -50)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Fetch(https://agentsky.dev/robots.txt)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Read(/data/workspace/seo/notes.md)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Task(Audit competitor SERP coverage)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Write(/data/workspace/seo/00-executive-summary.md)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Bash(curl -s -H \"Authorization: Bearer ●●●\" https://api.example.com/v1",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Fetch(https://api.example.com/v1/report?token=●●●&range=30d)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Fetch(https://agentsky.dev/compare)",
+    "summary": "",
+    "boxH": 28,
+    "lineH": 22,
+    "font": "\"Instrument Sans\"",
+    "size": "14px",
+    "verbObject": true
+   },
+   {
+    "title": "Tools",
+    "summary": "Connectors",
+    "boxH": 28,
+    "lineH": 20,
+    "font": "\"Instrument Sans\"",
+    "size": "13px",
+    "verbObject": false
+   },
+   {
+    "title": "Connectors",
+    "summary": "ctors",
+    "boxH": 28,
+    "lineH": 20,
+    "font": "\"Instrument Sans\"",
+    "size": "13px",
+    "verbObject": false
+   }
+  ],
+  "glyphs": {
+   "spine": 15,
+   "result": 10,
+   "human": 0
+  },
+  "firstText": [
+   "Claude Code",
+   "Ready",
+   "›"
+  ],
+  "priceMentions": 0,
+  "composerBottom": 828,
+  "composerH": 108,
+  "viewportH": 844,
+  "dockOpenWidths": [],
+  "redacted": 0,
+  "leaked": 0,
+  "expandedAfterCtrlO": 15
+ }
+]

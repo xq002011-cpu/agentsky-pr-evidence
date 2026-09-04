@@ -1,0 +1,20 @@
+{
+ "titles": [
+  "Bash(npm test -- --run)",
+  "Bash(npm run dev -- --port 3000)",
+  "BashOutput(bash_7)",
+  "KillShell(bash_7)",
+  "Search(src/**/*.test.ts)",
+  "Search(persistInbound)",
+  "WebSearch(run claude code in the cloud)",
+  "Task(…)",
+  "Task(…)",
+  "ToolSearch(select:Monitor)",
+  "playwright - browser_take_screenshot (MCP)(home.png)",
+  "Bash(curl -sf https://agentsky.dev/does-not-exist)"
+ ],
+ "openAtRest": 3,
+ "doubleError": 0,
+ "inputLabelUpper": 0,
+ "inputLabelLower": 0
+}
