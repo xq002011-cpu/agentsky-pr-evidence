@@ -1,0 +1,28 @@
+# Reference contract v3 — the Claude Code DESKTOP app is the reference (evidence attached)
+
+Why v3: the owner compares us with the desktop app he uses, not the terminal. Twelve public screenshots of the desktop app (kiloloco.com first-impressions review, prosperinai.substack terminal-vs-desktop review, VentureBeat, claude.com product page) plus the owner's own three screenshots (2026-09-03, Claude Code macOS with Fable 5.1) all agree on one grammar, and it is NOT the terminal's `● Verb(object)` + `⎿` grammar. The CLI lexicon (v2) remains valid only for the WORDING of result sentences where the desktop shows the same words; the frame, the row shape and the affordances follow the desktop.
+
+## What the desktop app renders (observed, with sources)
+
+1. USER MESSAGE — a rounded bubble with the prompt verbatim. Owner's build (light): right-aligned, light grey ≈#f1f1ef, radius ≈10px, padding ≈10×14, 15px ink. Dark builds: same shape, grey or blue-tinted. [owner shots; prosperinai 16-visual-diff; kiloloco 06]
+2. ASSISTANT PROSE — plain text, NO marker glyph, 15px ink; lists and inline code (light pill) inside. Under each assistant message a quiet action row (copy · share · pin · speak · relative time, 13px muted). [owner shots; kiloloco 06/07]
+3. TOOL / AGENT ROW, COLLAPSED — ONE line of muted text, a past-tense SENTENCE, followed by a chevron `›` (turns `⌄` when expanded). Observed rows:
+   - `Ran View GitHub issue 2664 ›`  (Bash; "Ran" + the call's description) [kiloloco 06]
+   - `Found files, searched code ›`  (a multi-call turn: Glob + Grep collapsed into one comma-joined lowercase summary) [kiloloco 07]
+   - `Edited Pricing.tsx +3 -3 ⌄`  (Edit; file basename in ink, diffstat green/red, expanded) [prosperinai 16]
+   - `Ran an agent ⌄` → expanded shows `Ran agent Haiku 4.5 Explore MCP server codebase ⌄` and then `subagent_type: … / description: … / prompt: …` as plain lines [kiloloco 08]
+   - `Finding Claude Code desktop reference screenshots ›`  (agent row titled by its description) [owner shot 2026-09-03]
+   Rule: `<PastTenseVerb> <object or description>` per call; several non-important calls in one turn collapse to `<Verb> <noun>, <verb> <noun>` (first word capitalised). No `●`, no `⎿`, no indent step, no fold-hint text; the chevron is the only affordance.
+4. TOOL ROW, EXPANDED — the content appears inline under the row inside ONE rounded dark/light code surface: for Edit a file-path header line then numbered lines with red `-` / green `+` rows (three hunks = three stacked surfaces) [prosperinai 16]; for Write a numbered green block of the written file [claude.com 20]; for Bash the command in a mono block (and the cwd path in a second block) [kiloloco 06]. NO "INPUT / RESULT" cards, NO labels, NO Copy buttons inside the transcript.
+5. RESULT SENTENCES where visible: `Read 256 lines` under a Read row (older `└` style, claude.com 20). Where the desktop shows no result line, the collapsed row IS the summary (e.g. `Edited Pricing.tsx +3 -3`). Use the CLI lexicon wording for the sentence text when the desktop shows none.
+6. TURN STATE — while running: `✻ Pondering…` / owner's `✻ 5 running tasks` (warm orange starburst + text or outlined pill). When the turn ends: a lone `✻` glyph on its own line, nothing else (no "Cooked for 22s" on the desktop). [kiloloco 06/07, prosperinai 16, claude.com 20, owner shots]
+7. ERRORS — a plain red text line (`Start a local session first to run shell commands`), no card, no icon. [kiloloco 05]
+8. COMPOSER — rounded card (radius ≈12px, hairline) with placeholder `Type / for commands` and a `↵` glyph at the right; below it a plain toolbar: `Accept edits ⊡  +  🎤 ▾ … Opus 4.6 · Medium ◯` (owner: `Bypass permissions + 🎤 ▾ … Fable 5.1  High ◯`). The block hugs the bottom of the column (≤16px to the window edge). [all]
+9. BRANCH / PR CARD — a one-line card directly above the composer: owner's `tyny  main  +2,774 −128  [Create PR ▾]  ×`; after a PR exists: `⑂ #2  prosperlaunch-website  claude/review-pricing-page-fLak8   Merged  ×` (violet tint). [owner shots; prosperinai 16]
+10. HEADER — `📁 repo / Session title` (or laptop icon + title + workspace pill) with icon buttons (terminal, files, browser, ⋮, panel toggle) at the right; right column = panels (Transcript / Terminal / Background tasks / artifact) each with its own title bar. Summary view adds chips `1 turn · 5 tool calls · <1m · 19.5k tokens`. [kiloloco 06/07, owner shots]
+11. TYPE — one sans family (Instrument-Sans-like) 15px body / 13px meta, mono for code and diffstat. Colours: ink, muted, red/green for diffstat and diff lines, warm orange for `✻`, blue for links/pills.
+
+## What this changes in the build lanes
+- Main lane (#779): keep the per-call rows and the turn-level collapse you built, but the ROW SHAPE is `<sentence> ›` in muted text with a right chevron — not `● Verb(object)` + `⎿`. Keep `traceTitle`/`traceResult` as the wording source; render them as the desktop sentence (`Ran npm test -- --run ›` style: verb + object; for calls that carry a `description`, use `Ran <description>`). Expanded = inline code surface as in §4. Turn end = lone `✻`. Keep the user bubble. Composer + branch card per §8–9.
+- Tool-family lane: the per-tool verbs/results table still applies as WORDING (e.g. `Read image (1440×900)`, `Did 1 search in 3s`, `Done (14 tool uses · …)`), rendered inside the desktop row/expanded shapes above; the `⎿` glyph and the two-column indent are gone.
+- Critic: judge against this document first, the CLI lexicon second (wording only), the desktop screenshots in /cc-refs (I will attach the files to PR #779) for pixels.
