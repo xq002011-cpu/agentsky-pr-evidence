@@ -1,0 +1,786 @@
+[
+ {
+  "tag": "763-share-light-1440",
+  "errors": 0,
+  "reasoning": {
+   "collapsed": {
+    "label": "Thought about it",
+    "glyphs": [
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform opacity-0 group-hover/disclosure:opacity-100 group-focus-within/disclosure:opacity-100"
+    ],
+    "hasX": false,
+    "hasAlert": false,
+    "chevronAfterLabel": true,
+    "regionText": "",
+    "regionUppercaseError": false,
+    "boxHeight": 30,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   },
+   "expanded": {
+    "label": "Thought about it",
+    "glyphs": [
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform rotate-90"
+    ],
+    "hasX": false,
+    "hasAlert": false,
+    "chevronAfterLabel": true,
+    "regionText": "Checking which families still lack a written summary.",
+    "regionUppercaseError": false,
+    "boxHeight": 56,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   }
+  },
+  "failedWithInput": {
+   "expanded": {
+    "label": "Ran curl -sf https://agentsky.dev/does-not-exist",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform rotate-90"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": true,
+    "regionText": "Commandcurl -sf https://agentsky.dev/does-not-existCopyErrorcurl: (22) The requested URL returned error: 404Copy",
+    "regionUppercaseError": false,
+    "boxHeight": 247,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   },
+   "collapsed": {
+    "label": "Ran curl -sf https://agentsky.dev/does-not-exist",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform opacity-0 group-hover/disclosure:opacity-100 group-focus-within/disclosure:opacity-100"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": true,
+    "regionText": "",
+    "regionUppercaseError": false,
+    "boxHeight": 30,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   }
+  },
+  "failedOneLine": {
+   "expanded": {
+    "label": "Found 0 web results",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform rotate-90"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": false,
+    "regionText": "Error: unknown tool \"web_search\"",
+    "regionUppercaseError": false,
+    "boxHeight": 56,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   },
+   "collapsed": {
+    "label": "Found 0 web results",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform opacity-0 group-hover/disclosure:opacity-100 group-focus-within/disclosure:opacity-100"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": false,
+    "regionText": "",
+    "regionUppercaseError": false,
+    "boxHeight": 30,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   }
+  }
+ },
+ {
+  "tag": "763-sessions-light-1440",
+  "errors": 0,
+  "reasoning": {
+   "collapsed": {
+    "label": "Thought about it",
+    "glyphs": [
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform opacity-0 group-hover/disclosure:opacity-100 group-focus-within/disclosure:opacity-100"
+    ],
+    "hasX": false,
+    "hasAlert": false,
+    "chevronAfterLabel": true,
+    "regionText": "",
+    "regionUppercaseError": false,
+    "boxHeight": 30,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   },
+   "expanded": {
+    "label": "Thought about it",
+    "glyphs": [
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform rotate-90"
+    ],
+    "hasX": false,
+    "hasAlert": false,
+    "chevronAfterLabel": true,
+    "regionText": "Checking which families still lack a written summary.",
+    "regionUppercaseError": false,
+    "boxHeight": 56,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   }
+  },
+  "failedWithInput": {
+   "expanded": {
+    "label": "Ran curl -sf https://agentsky.dev/does-not-exist",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform rotate-90"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": true,
+    "regionText": "Commandcurl -sf https://agentsky.dev/does-not-existCopyErrorcurl: (22) The requested URL returned error: 404Copy",
+    "regionUppercaseError": false,
+    "boxHeight": 247,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   },
+   "collapsed": {
+    "label": "Ran curl -sf https://agentsky.dev/does-not-exist",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform opacity-0 group-hover/disclosure:opacity-100 group-focus-within/disclosure:opacity-100"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": true,
+    "regionText": "",
+    "regionUppercaseError": false,
+    "boxHeight": 30,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   }
+  },
+  "failedOneLine": {
+   "expanded": {
+    "label": "Found 0 web results",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform rotate-90"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": false,
+    "regionText": "Error: unknown tool \"web_search\"",
+    "regionUppercaseError": false,
+    "boxHeight": 56,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   },
+   "collapsed": {
+    "label": "Found 0 web results",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform opacity-0 group-hover/disclosure:opacity-100 group-focus-within/disclosure:opacity-100"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": false,
+    "regionText": "",
+    "regionUppercaseError": false,
+    "boxHeight": 30,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   }
+  }
+ },
+ {
+  "tag": "763-share-light-390",
+  "errors": 0,
+  "reasoning": {
+   "collapsed": {
+    "label": "Thought about it",
+    "glyphs": [
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform opacity-0 group-hover/disclosure:opacity-100 group-focus-within/disclosure:opacity-100"
+    ],
+    "hasX": false,
+    "hasAlert": false,
+    "chevronAfterLabel": true,
+    "regionText": "",
+    "regionUppercaseError": false,
+    "boxHeight": 30,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   },
+   "expanded": {
+    "label": "Thought about it",
+    "glyphs": [
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform rotate-90"
+    ],
+    "hasX": false,
+    "hasAlert": false,
+    "chevronAfterLabel": true,
+    "regionText": "Checking which families still lack a written summary.",
+    "regionUppercaseError": false,
+    "boxHeight": 56,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   }
+  },
+  "failedWithInput": {
+   "expanded": {
+    "label": "Ran curl -sf https://agentsky.dev/does-not-exist",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform rotate-90"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": true,
+    "regionText": "Commandcurl -sf https://agentsky.dev/does-not-existCopyErrorcurl: (22) The requested URL returned error: 404Copy",
+    "regionUppercaseError": false,
+    "boxHeight": 247,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   },
+   "collapsed": {
+    "label": "Ran curl -sf https://agentsky.dev/does-not-exist",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform opacity-0 group-hover/disclosure:opacity-100 group-focus-within/disclosure:opacity-100"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": true,
+    "regionText": "",
+    "regionUppercaseError": false,
+    "boxHeight": 30,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   }
+  },
+  "failedOneLine": {
+   "expanded": {
+    "label": "Found 0 web results",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform rotate-90"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": false,
+    "regionText": "Error: unknown tool \"web_search\"",
+    "regionUppercaseError": false,
+    "boxHeight": 56,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   },
+   "collapsed": {
+    "label": "Found 0 web results",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform opacity-0 group-hover/disclosure:opacity-100 group-focus-within/disclosure:opacity-100"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": false,
+    "regionText": "",
+    "regionUppercaseError": false,
+    "boxHeight": 30,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   }
+  }
+ },
+ {
+  "tag": "763-sessions-light-390",
+  "errors": 0,
+  "reasoning": {
+   "collapsed": {
+    "label": "Thought about it",
+    "glyphs": [
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform opacity-0 group-hover/disclosure:opacity-100 group-focus-within/disclosure:opacity-100"
+    ],
+    "hasX": false,
+    "hasAlert": false,
+    "chevronAfterLabel": true,
+    "regionText": "",
+    "regionUppercaseError": false,
+    "boxHeight": 30,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   },
+   "expanded": {
+    "label": "Thought about it",
+    "glyphs": [
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform rotate-90"
+    ],
+    "hasX": false,
+    "hasAlert": false,
+    "chevronAfterLabel": true,
+    "regionText": "Checking which families still lack a written summary.",
+    "regionUppercaseError": false,
+    "boxHeight": 56,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   }
+  },
+  "failedWithInput": {
+   "expanded": {
+    "label": "Ran curl -sf https://agentsky.dev/does-not-exist",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform rotate-90"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": true,
+    "regionText": "Commandcurl -sf https://agentsky.dev/does-not-existCopyErrorcurl: (22) The requested URL returned error: 404Copy",
+    "regionUppercaseError": false,
+    "boxHeight": 247,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   },
+   "collapsed": {
+    "label": "Ran curl -sf https://agentsky.dev/does-not-exist",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform opacity-0 group-hover/disclosure:opacity-100 group-focus-within/disclosure:opacity-100"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": true,
+    "regionText": "",
+    "regionUppercaseError": false,
+    "boxHeight": 30,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   }
+  },
+  "failedOneLine": {
+   "expanded": {
+    "label": "Found 0 web results",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform rotate-90"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": false,
+    "regionText": "Error: unknown tool \"web_search\"",
+    "regionUppercaseError": false,
+    "boxHeight": 56,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   },
+   "collapsed": {
+    "label": "Found 0 web results",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform opacity-0 group-hover/disclosure:opacity-100 group-focus-within/disclosure:opacity-100"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": false,
+    "regionText": "",
+    "regionUppercaseError": false,
+    "boxHeight": 30,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   }
+  }
+ },
+ {
+  "tag": "763-share-dark-1440",
+  "errors": 0,
+  "reasoning": {
+   "collapsed": {
+    "label": "Thought about it",
+    "glyphs": [
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform opacity-0 group-hover/disclosure:opacity-100 group-focus-within/disclosure:opacity-100"
+    ],
+    "hasX": false,
+    "hasAlert": false,
+    "chevronAfterLabel": true,
+    "regionText": "",
+    "regionUppercaseError": false,
+    "boxHeight": 30,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   },
+   "expanded": {
+    "label": "Thought about it",
+    "glyphs": [
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform rotate-90"
+    ],
+    "hasX": false,
+    "hasAlert": false,
+    "chevronAfterLabel": true,
+    "regionText": "Checking which families still lack a written summary.",
+    "regionUppercaseError": false,
+    "boxHeight": 56,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   }
+  },
+  "failedWithInput": {
+   "expanded": {
+    "label": "Ran curl -sf https://agentsky.dev/does-not-exist",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform rotate-90"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": true,
+    "regionText": "Commandcurl -sf https://agentsky.dev/does-not-existCopyErrorcurl: (22) The requested URL returned error: 404Copy",
+    "regionUppercaseError": false,
+    "boxHeight": 247,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   },
+   "collapsed": {
+    "label": "Ran curl -sf https://agentsky.dev/does-not-exist",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform opacity-0 group-hover/disclosure:opacity-100 group-focus-within/disclosure:opacity-100"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": true,
+    "regionText": "",
+    "regionUppercaseError": false,
+    "boxHeight": 30,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   }
+  },
+  "failedOneLine": {
+   "expanded": {
+    "label": "Found 0 web results",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform rotate-90"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": false,
+    "regionText": "Error: unknown tool \"web_search\"",
+    "regionUppercaseError": false,
+    "boxHeight": 56,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   },
+   "collapsed": {
+    "label": "Found 0 web results",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform opacity-0 group-hover/disclosure:opacity-100 group-focus-within/disclosure:opacity-100"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": false,
+    "regionText": "",
+    "regionUppercaseError": false,
+    "boxHeight": 30,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   }
+  }
+ },
+ {
+  "tag": "763-sessions-dark-1440",
+  "errors": 0,
+  "reasoning": {
+   "collapsed": {
+    "label": "Thought about it",
+    "glyphs": [
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform opacity-0 group-hover/disclosure:opacity-100 group-focus-within/disclosure:opacity-100"
+    ],
+    "hasX": false,
+    "hasAlert": false,
+    "chevronAfterLabel": true,
+    "regionText": "",
+    "regionUppercaseError": false,
+    "boxHeight": 30,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   },
+   "expanded": {
+    "label": "Thought about it",
+    "glyphs": [
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform rotate-90"
+    ],
+    "hasX": false,
+    "hasAlert": false,
+    "chevronAfterLabel": true,
+    "regionText": "Checking which families still lack a written summary.",
+    "regionUppercaseError": false,
+    "boxHeight": 56,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   }
+  },
+  "failedWithInput": {
+   "expanded": {
+    "label": "Ran curl -sf https://agentsky.dev/does-not-exist",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform rotate-90"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": true,
+    "regionText": "Commandcurl -sf https://agentsky.dev/does-not-existCopyErrorcurl: (22) The requested URL returned error: 404Copy",
+    "regionUppercaseError": false,
+    "boxHeight": 247,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   },
+   "collapsed": {
+    "label": "Ran curl -sf https://agentsky.dev/does-not-exist",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform opacity-0 group-hover/disclosure:opacity-100 group-focus-within/disclosure:opacity-100"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": true,
+    "regionText": "",
+    "regionUppercaseError": false,
+    "boxHeight": 30,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   }
+  },
+  "failedOneLine": {
+   "expanded": {
+    "label": "Found 0 web results",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform rotate-90"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": false,
+    "regionText": "Error: unknown tool \"web_search\"",
+    "regionUppercaseError": false,
+    "boxHeight": 56,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   },
+   "collapsed": {
+    "label": "Found 0 web results",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform opacity-0 group-hover/disclosure:opacity-100 group-focus-within/disclosure:opacity-100"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": false,
+    "regionText": "",
+    "regionUppercaseError": false,
+    "boxHeight": 30,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   }
+  }
+ },
+ {
+  "tag": "763-share-dark-390",
+  "errors": 0,
+  "reasoning": {
+   "collapsed": {
+    "label": "Thought about it",
+    "glyphs": [
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform opacity-0 group-hover/disclosure:opacity-100 group-focus-within/disclosure:opacity-100"
+    ],
+    "hasX": false,
+    "hasAlert": false,
+    "chevronAfterLabel": true,
+    "regionText": "",
+    "regionUppercaseError": false,
+    "boxHeight": 30,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   },
+   "expanded": {
+    "label": "Thought about it",
+    "glyphs": [
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform rotate-90"
+    ],
+    "hasX": false,
+    "hasAlert": false,
+    "chevronAfterLabel": true,
+    "regionText": "Checking which families still lack a written summary.",
+    "regionUppercaseError": false,
+    "boxHeight": 56,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   }
+  },
+  "failedWithInput": {
+   "expanded": {
+    "label": "Ran curl -sf https://agentsky.dev/does-not-exist",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform rotate-90"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": true,
+    "regionText": "Commandcurl -sf https://agentsky.dev/does-not-existCopyErrorcurl: (22) The requested URL returned error: 404Copy",
+    "regionUppercaseError": false,
+    "boxHeight": 247,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   },
+   "collapsed": {
+    "label": "Ran curl -sf https://agentsky.dev/does-not-exist",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform opacity-0 group-hover/disclosure:opacity-100 group-focus-within/disclosure:opacity-100"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": true,
+    "regionText": "",
+    "regionUppercaseError": false,
+    "boxHeight": 30,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   }
+  },
+  "failedOneLine": {
+   "expanded": {
+    "label": "Found 0 web results",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform rotate-90"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": false,
+    "regionText": "Error: unknown tool \"web_search\"",
+    "regionUppercaseError": false,
+    "boxHeight": 56,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   },
+   "collapsed": {
+    "label": "Found 0 web results",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform opacity-0 group-hover/disclosure:opacity-100 group-focus-within/disclosure:opacity-100"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": false,
+    "regionText": "",
+    "regionUppercaseError": false,
+    "boxHeight": 30,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   }
+  }
+ },
+ {
+  "tag": "763-sessions-dark-390",
+  "errors": 0,
+  "reasoning": {
+   "collapsed": {
+    "label": "Thought about it",
+    "glyphs": [
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform opacity-0 group-hover/disclosure:opacity-100 group-focus-within/disclosure:opacity-100"
+    ],
+    "hasX": false,
+    "hasAlert": false,
+    "chevronAfterLabel": true,
+    "regionText": "",
+    "regionUppercaseError": false,
+    "boxHeight": 30,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   },
+   "expanded": {
+    "label": "Thought about it",
+    "glyphs": [
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform rotate-90"
+    ],
+    "hasX": false,
+    "hasAlert": false,
+    "chevronAfterLabel": true,
+    "regionText": "Checking which families still lack a written summary.",
+    "regionUppercaseError": false,
+    "boxHeight": 56,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   }
+  },
+  "failedWithInput": {
+   "expanded": {
+    "label": "Ran curl -sf https://agentsky.dev/does-not-exist",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform rotate-90"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": true,
+    "regionText": "Commandcurl -sf https://agentsky.dev/does-not-existCopyErrorcurl: (22) The requested URL returned error: 404Copy",
+    "regionUppercaseError": false,
+    "boxHeight": 247,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   },
+   "collapsed": {
+    "label": "Ran curl -sf https://agentsky.dev/does-not-exist",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform opacity-0 group-hover/disclosure:opacity-100 group-focus-within/disclosure:opacity-100"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": true,
+    "regionText": "",
+    "regionUppercaseError": false,
+    "boxHeight": 30,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   }
+  },
+  "failedOneLine": {
+   "expanded": {
+    "label": "Found 0 web results",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform rotate-90"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": false,
+    "regionText": "Error: unknown tool \"web_search\"",
+    "regionUppercaseError": false,
+    "boxHeight": 56,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   },
+   "collapsed": {
+    "label": "Found 0 web results",
+    "glyphs": [
+     "lucide lucide-circle-alert h-3.5 w-3.5",
+     "lucide lucide-chevron-right h-3.5 w-3.5 shrink-0 text-faint transition-transform opacity-0 group-hover/disclosure:opacity-100 group-focus-within/disclosure:opacity-100"
+    ],
+    "hasX": false,
+    "hasAlert": true,
+    "chevronAfterLabel": false,
+    "regionText": "",
+    "regionUppercaseError": false,
+    "boxHeight": 30,
+    "font": "\"Instrument Sans\"",
+    "size": "14px"
+   }
+  }
+ }
+]
