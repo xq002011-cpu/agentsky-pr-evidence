@@ -1,0 +1,207 @@
+[
+ {
+  "tag": "tabs-share-light-1440",
+  "tabs": [
+   "Browser1",
+   "Agents2",
+   "Code3",
+   "Changes3"
+  ],
+  "errors": 0,
+  "shots": [
+   {
+    "tab": "Browser1",
+    "slug": "browser",
+    "width": 520,
+    "text": "Browser1Agents2Code3Changes3https://agentsky.dev/pricingStepsBrowsehttps://agentsky.dev/pricingRead the page",
+    "fontFamily": "\"Instrument Sans\""
+   },
+   {
+    "tab": "Agents2",
+    "slug": "agents",
+    "width": 520,
+    "text": "Browser1Agents2Code3Changes32 agents1Crawl competitor ADoneCrawl competitor A and list its top 20 pages by inbound links.2Crawl competitor BFailedCrawl competit",
+    "fontFamily": "\"Instrument Sans\""
+   },
+   {
+    "tab": "Code3",
+    "slug": "code",
+    "width": 520,
+    "text": "Browser1Agents2Code3Changes3+403 −3 across 3 filesFiles00-executive-summary.md+40002-keyword-map.md+1−103-competitors.md+2−2/data/workspace/seo/03-competitors.m",
+    "fontFamily": "\"Instrument Sans\""
+   },
+   {
+    "tab": "Changes3",
+    "slug": "changes",
+    "width": 520,
+    "text": "Browser1Agents2Code3Changes33 files edited+403/−3data/+403 −3workspace/+403 −3seo/+403 −300-executive-summary.md+40002-keyword-map.md+1 −103-competitors.md+2 −2",
+    "fontFamily": "\"Instrument Sans\""
+   }
+  ]
+ },
+ {
+  "tag": "tabs-sessions-light-1440",
+  "tabs": [
+   "Browser1",
+   "Agents2",
+   "Code3",
+   "Changes3"
+  ],
+  "errors": 0,
+  "shots": [
+   {
+    "tab": "Browser1",
+    "slug": "browser",
+    "width": 520,
+    "text": "Browser1Agents2Code3Changes3https://agentsky.dev/pricingStepsBrowsehttps://agentsky.dev/pricingRead the page",
+    "fontFamily": "\"Instrument Sans\""
+   },
+   {
+    "tab": "Agents2",
+    "slug": "agents",
+    "width": 520,
+    "text": "Browser1Agents2Code3Changes32 agents1Crawl competitor ADoneCrawl competitor A and list its top 20 pages by inbound links.2Crawl competitor BFailedCrawl competit",
+    "fontFamily": "\"Instrument Sans\""
+   },
+   {
+    "tab": "Code3",
+    "slug": "code",
+    "width": 520,
+    "text": "Browser1Agents2Code3Changes3+403 −3 across 3 filesFiles00-executive-summary.md+40002-keyword-map.md+1−103-competitors.md+2−2/data/workspace/seo/03-competitors.m",
+    "fontFamily": "\"Instrument Sans\""
+   },
+   {
+    "tab": "Changes3",
+    "slug": "changes",
+    "width": 520,
+    "text": "Browser1Agents2Code3Changes33 files edited+403/−3data/+403 −3workspace/+403 −3seo/+403 −300-executive-summary.md+40002-keyword-map.md+1 −103-competitors.md+2 −2",
+    "fontFamily": "\"Instrument Sans\""
+   }
+  ]
+ },
+ {
+  "tag": "tabs-share-empty-light-1440",
+  "tabs": [],
+  "errors": 0,
+  "shots": [],
+  "emptyText": null
+ },
+ {
+  "tag": "tabs-share-light-390",
+  "tabs": [
+   "Browser1",
+   "Agents2",
+   "Code3",
+   "Changes3"
+  ],
+  "errors": 0,
+  "shots": [],
+  "dockHidden": true
+ },
+ {
+  "tag": "tabs-sessions-light-390",
+  "tabs": [
+   "Browser1",
+   "Agents2",
+   "Code3",
+   "Changes3"
+  ],
+  "errors": 0,
+  "shots": [],
+  "dockHidden": true
+ },
+ {
+  "tag": "tabs-share-empty-light-390",
+  "tabs": [],
+  "errors": 0,
+  "shots": [],
+  "dockHidden": true
+ },
+ {
+  "tag": "tabs-share-dark-1440",
+  "tabs": [
+   "Browser1",
+   "Agents2",
+   "Code3",
+   "Changes3"
+  ],
+  "errors": 0,
+  "shots": [
+   {
+    "tab": "Browser1",
+    "slug": "browser",
+    "width": 520,
+    "text": "Browser1Agents2Code3Changes3https://agentsky.dev/pricingStepsBrowsehttps://agentsky.dev/pricingRead the page",
+    "fontFamily": "\"Instrument Sans\""
+   },
+   {
+    "tab": "Agents2",
+    "slug": "agents",
+    "width": 520,
+    "text": "Browser1Agents2Code3Changes32 agents1Crawl competitor ADoneCrawl competitor A and list its top 20 pages by inbound links.2Crawl competitor BFailedCrawl competit",
+    "fontFamily": "\"Instrument Sans\""
+   },
+   {
+    "tab": "Code3",
+    "slug": "code",
+    "width": 520,
+    "text": "Browser1Agents2Code3Changes3+403 −3 across 3 filesFiles00-executive-summary.md+40002-keyword-map.md+1−103-competitors.md+2−2/data/workspace/seo/03-competitors.m",
+    "fontFamily": "\"Instrument Sans\""
+   },
+   {
+    "tab": "Changes3",
+    "slug": "changes",
+    "width": 520,
+    "text": "Browser1Agents2Code3Changes33 files edited+403/−3data/+403 −3workspace/+403 −3seo/+403 −300-executive-summary.md+40002-keyword-map.md+1 −103-competitors.md+2 −2",
+    "fontFamily": "\"Instrument Sans\""
+   }
+  ]
+ },
+ {
+  "tag": "tabs-sessions-dark-1440",
+  "tabs": [
+   "Browser1",
+   "Agents2",
+   "Code3",
+   "Changes3"
+  ],
+  "errors": 0,
+  "shots": [
+   {
+    "tab": "Browser1",
+    "slug": "browser",
+    "width": 520,
+    "text": "Browser1Agents2Code3Changes3https://agentsky.dev/pricingStepsBrowsehttps://agentsky.dev/pricingRead the page",
+    "fontFamily": "\"Instrument Sans\""
+   },
+   {
+    "tab": "Agents2",
+    "slug": "agents",
+    "width": 520,
+    "text": "Browser1Agents2Code3Changes32 agents1Crawl competitor ADoneCrawl competitor A and list its top 20 pages by inbound links.2Crawl competitor BFailedCrawl competit",
+    "fontFamily": "\"Instrument Sans\""
+   },
+   {
+    "tab": "Code3",
+    "slug": "code",
+    "width": 520,
+    "text": "Browser1Agents2Code3Changes3+403 −3 across 3 filesFiles00-executive-summary.md+40002-keyword-map.md+1−103-competitors.md+2−2/data/workspace/seo/03-competitors.m",
+    "fontFamily": "\"Instrument Sans\""
+   },
+   {
+    "tab": "Changes3",
+    "slug": "changes",
+    "width": 520,
+    "text": "Browser1Agents2Code3Changes33 files edited+403/−3data/+403 −3workspace/+403 −3seo/+403 −300-executive-summary.md+40002-keyword-map.md+1 −103-competitors.md+2 −2",
+    "fontFamily": "\"Instrument Sans\""
+   }
+  ]
+ },
+ {
+  "tag": "tabs-share-empty-dark-1440",
+  "tabs": [],
+  "errors": 0,
+  "shots": [],
+  "emptyText": null
+ }
+]
